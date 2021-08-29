@@ -2,8 +2,8 @@
 
 int main()
 {
-	{ //blocos de código agrupam sentenças de código
-		; //uma sentença é a unidade sintática de uma linguagem de programação imperativa
+	{ //Code blocks bound statements togheter
+		; //statements are the lexical atom of programming languages
 		;
 	}
 	
